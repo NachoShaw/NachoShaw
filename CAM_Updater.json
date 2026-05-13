@@ -7,18 +7,13 @@
   "changes": [
     {
       "versionref": "1.0.1",
-      "date": "2026-05-10",
-      "bugfix": "Fixed crash when opening reports"
+      "date": "2026-05-12",
+      "bugfix": "Fixed an issue identified when tool was opened on a non-parent assembly."
     },
     {
       "versionref": "1.0.2",
-      "date": "2026-05-11",
-      "bugfix": "Improved update check speed"
-    },
-    {
-      "versionref": "1.0.3",
-      "date": "2026-05-12",
-      "bugfix": "Resolved login timeout issue"
+      "date": "2026-05-13",
+      "bugfix": "updated Project number format from 0000 to 000000 (251093)"
     }
   ]
 }
