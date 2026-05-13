@@ -1,0 +1,24 @@
+{
+  "version": "1.0.3",
+  "messageTitle": "Bug fixes and improvements.",
+  "message1": "An update has been added to Vault",
+  "message2": "Please close Inventor and install the update",
+  "downloadUrl": "https://yourwebsite.com/download",
+  "changes": [
+    {
+      "versionref": "1.0.1",
+      "date": "2026-05-10",
+      "bugfix": "Fixed crash when opening reports"
+    },
+    {
+      "versionref": "1.0.2",
+      "date": "2026-05-11",
+      "bugfix": "Improved update check speed"
+    },
+    {
+      "versionref": "1.0.3",
+      "date": "2026-05-12",
+      "bugfix": "Resolved login timeout issue"
+    }
+  ]
+}
