@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Im working on various projects
+Autodesk Inventor Addins are primary
+Android Music dj app is my side project
+
 <!--
 **NachoShaw/NachoShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
